@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AFKBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "countromc.falix.me",
+    "port": 39763,
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to CountroMC!",
         "I like to play Minecraft!"
       ]
     },
