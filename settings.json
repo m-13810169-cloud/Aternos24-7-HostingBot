@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "WhoareYou",
-    "password": "newpassw0rd@12312",
+    "username": "motsco",
+    "password": "newpassw0rd@123123",
     "type": "offline"
   },
   "server": {
@@ -27,9 +27,9 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 10,
       "messages": [
         "I'm a regular player",
         "Subscribe to CountroMC!",
@@ -49,7 +49,7 @@
   "movement": {
     "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
