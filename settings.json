@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Sigma",
+    "username": "AFKbot",
     "password": "1",
     "type": "offline"
   },
   "server": {
-    "ip": "countromc.falix.me",
+    "ip": "countromc.aternos.me",
     "port": 39763,
     "version": "1.21",
     "try-creative": false
