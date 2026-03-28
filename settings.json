@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "countromc.aternos.me",
-    "port": 39763,
-    "version": "1.21",
+    "ip": "gmctiers.aternos.me",
+    "port": 38934,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 10,
       "messages": [
-        "Subscribe to CountroMC!",      
+        "Subscribe to GMCTiers on Youtube!",      
       ]
     },
     "chat-log": true,
